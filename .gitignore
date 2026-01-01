@@ -1,1 +1,4 @@
 data
+artifacts
+notebooks/mlruns
+mlflow.db
