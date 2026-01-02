@@ -3,3 +3,4 @@ artifacts
 notebooks/mlruns
 mlflow.db
 notebooks/results
+notebooks/results_lora
